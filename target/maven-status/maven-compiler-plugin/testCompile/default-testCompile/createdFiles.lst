@@ -1,0 +1,4 @@
+Runner\TestRunner.class
+pages\LoginPage.class
+com\stepDefinition\TestSteps.class
+pages\SearchHotelPage.class
