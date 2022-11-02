@@ -39,6 +39,7 @@ public class TestSteps {
 //		uname.sendKeys("vasuvespag");
 //		loginPg = new LoginPage(driver);
 		loginPg.enterUsername("vasuvespag");
+		System.out.out.println("User is on HotelApp homepage");
 	}
 
 	@When("User enters Password")
